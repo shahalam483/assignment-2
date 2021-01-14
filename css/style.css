@@ -1,0 +1,75 @@
+body{
+    font-family: 'Roboto', sans-serif;
+  }
+  #gold{
+      color:rgba(250, 190, 76, 1);
+  }
+
+.nav-sec{
+    background-color: rgba(255, 251, 240, 1);
+    height: 650px;
+}
+
+#lady-image{
+    margin-top: 15px;
+}
+
+#head-style{
+    
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 80px;
+}
+
+.button-style{
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: rgba(164, 188, 70, 1);
+    border-radius: 10px;    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+   }
+
+.t-margin{
+    margin-left: 5px;
+}
+
+.price-style{
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.first-sec-of-main{
+    margin-top: 80px;
+}
+.img-back{
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.last-sec{
+    height: 125px;
+    width: 500px;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 30px;
+}
+
+.card-img-top{
+    background-color:  rgba(241, 241, 241, 1);
+    border: 30px solid  rgba(241, 241, 241, 1);
+    border-radius: 25px;
+}
+
+
+
+   
+
+
+
+ 
+
+    
+    
